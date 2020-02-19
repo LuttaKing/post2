@@ -25,7 +25,7 @@ SECRET_KEY = '=8ex9vnq@ig&3xc5mta%%&&+&c#^co5_d#)3c8b-a+f&v$9w8z'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['https://sleepy-plateau-22646.herokuapp.com']
+ALLOWED_HOSTS = ['sleepy-plateau-22646.herokuapp.com']
 
 
 # Application definition
